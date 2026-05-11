@@ -223,7 +223,7 @@ Viernes    ████░░░░░░ 28 commits
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ayrton.andres@email.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ayrton.andres@email.com)
+[![Email](https://img.shields.io/badge/Email-ycarriel@fiec.espol.edu.ec-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ycarriel@fiec.espol.edu.ec)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-@AyrtonAndres-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayrton-andres)
 [![Twitter](https://img.shields.io/badge/Twitter-@AyrtonDev-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/ayrtondeveloper)
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayrton.dev-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://ayrton.dev)
