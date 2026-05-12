@@ -2,14 +2,14 @@
 
 <div align="center">
 
-**Desarrollador Full Stack | Estudiante de Ingeniería en Sistemas**
+**Estudiante de Ciencia de Datos | Apasionado por el Análisis y la Inteligencia Artificial**
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
-[![React](https://img.shields.io/badge/React-18+-61dafb?style=flat-square&logo=react&logoColor=black)](https://react.dev/)
-[![Node.js](https://img.shields.io/badge/Node.js-18+-339933?style=flat-square&logo=node.js&logoColor=white)](https://nodejs.org/)
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.12+-ff6f00?style=flat-square&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
-[![Git](https://img.shields.io/badge/Git-Version_Control-f05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-2.0+-2C2D72?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557c?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-1.3+-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
 
 </div>
 
@@ -25,76 +25,63 @@
 
 ## 🎯 Sobre Mí
 
-Soy **Ayrton Andres**, estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software y la inteligencia artificial. Actualmente resido en Daule, Ecuador, y me especializo en tecnologías Full Stack, IA y Machine Learning. Me gusta aprender nuevas herramientas y aplicarlas en proyectos innovadores.
+Soy **Ayrton Andres**, estudiante de Ciencia de Datos en tercer semestre, apasionado por el análisis de datos y la aplicación de inteligencia artificial para resolver problemas reales. Actualmente resido en Daule, Ecuador, y me enfoco en aprender técnicas de machine learning, visualización de datos y estadística aplicada. Me gusta explorar datasets públicos y desarrollar modelos predictivos.
 
-- 🎓 Estudiante de Ingeniería en Sistemas
+- 🎓 Estudiante de Ciencia de Datos (3er semestre)
 - 📍 Daule, Ecuador
-- 💡 Intereses: Desarrollo web, IA, videojuegos y fútbol
+- 💡 Intereses: Análisis de datos, machine learning, visualización y resolución de problemas con datos
 
 ---
 
 ## 🚀 Proyectos
 
-Aquí presento algunos de mis proyectos destacados, donde he aplicado las tecnologías aprendidas durante el curso.
+Aquí presento algunos de mis proyectos destacados, donde he aplicado las tecnologías aprendidas durante el curso de Ciencia de Datos.
 
-### 1. 🤖 **AI Chat Assistant**
-Una aplicación de inteligencia artificial conversacional que utiliza procesamiento de lenguaje natural para generar respuestas inteligentes.
+### 1. 📊 **Análisis de Datos COVID-19**
+Un proyecto de análisis exploratorio de datos sobre la pandemia de COVID-19 utilizando datasets públicos.
 
-**Descripción:** Este proyecto integra modelos de IA para crear un asistente de chat interactivo, capaz de mantener conversaciones contextuales.
+**Descripción:** Este proyecto analiza tendencias de casos, muertes y vacunaciones a nivel global y regional, identificando patrones y correlaciones.
 
-**Tecnologías utilizadas:** Python, TensorFlow, Node.js, React, MongoDB.
+**Tecnologías utilizadas:** Python, Pandas, Matplotlib, Jupyter Notebook.
 
-**Enlace al repositorio:** [GitHub - AI Chat Assistant](https://github.com/Phiepi137/ai-chat-assistant)
+**Enlace al repositorio:** [GitHub - Análisis COVID-19](https://github.com/Phiepi137/analisis-covid19)
 
-### 2. 💰 **Financial Dashboard**
-Un dashboard para la gestión financiera personal que incluye gráficos interactivos y análisis de datos en tiempo real.
+### 2. 🏠 **Predicción de Precios de Viviendas**
+Modelo de regresión lineal para predecir precios de viviendas basado en características como ubicación, tamaño y amenities.
 
-**Descripción:** Permite a los usuarios rastrear ingresos, gastos y tendencias financieras de manera visual y segura.
+**Descripción:** Utiliza datos de viviendas para entrenar un modelo que estima precios, evaluando su precisión con métricas como RMSE.
 
-**Tecnologías utilizadas:** React, Express.js, PostgreSQL, Redux, Chart.js.
+**Tecnologías utilizadas:** Python, Scikit-learn, Pandas, NumPy, Matplotlib.
 
-**Enlace al repositorio:** [GitHub - Financial Dashboard](https://github.com/Phiepi137/financial-dashboard)
+**Enlace al repositorio:** [GitHub - Predicción Viviendas](https://github.com/Phiepi137/prediccion-viviendas)
 
-### 3. 🎨 **Design System Library**
-Una librería de componentes reutilizables para el desarrollo frontend, con documentación completa y accesibilidad.
+### 3. 📈 **Dashboard de Ventas Interactivo**
+Visualización interactiva de datos de ventas de una empresa ficticia, con gráficos dinámicos y filtros.
 
-**Descripción:** Acelera el desarrollo de interfaces de usuario mediante componentes preconstruidos y personalizables.
+**Descripción:** Crea un dashboard que permite explorar métricas de ventas por producto, región y tiempo, facilitando la toma de decisiones.
 
-**Tecnologías utilizadas:** React, TypeScript, Styled Components, Storybook.
+**Tecnologías utilizadas:** Python, Pandas, Plotly, Streamlit, Jupyter Notebook.
 
-**Enlace al repositorio:** [GitHub - Design System Library](https://github.com/Phiepi137/design-system-library)
+**Enlace al repositorio:** [GitHub - Dashboard Ventas](https://github.com/Phiepi137/dashboard-ventas)
 
 ---
 
 ## 🛠️ Tecnologías
 
-Durante el curso, he aprendido y aplicado diversas tecnologías, herramientas, frameworks y librerías en mis proyectos. A continuación, detallo algunas de las principales:
+Durante mis estudios en Ciencia de Datos, he aprendido y aplicado diversas herramientas y librerías para el manejo, análisis y visualización de datos. A continuación, detallo algunas de las principales:
 
-- **Python:** Lenguaje de programación utilizado para el desarrollo backend y scripts de IA. En el proyecto AI Chat Assistant, lo usé para implementar modelos de machine learning con TensorFlow.
-- **JavaScript:** Lenguaje esencial para el desarrollo web. Lo apliqué en proyectos frontend con React para crear interfaces dinámicas.
-- **React:** Framework de JavaScript para construir interfaces de usuario. Utilizado en Financial Dashboard y Design System Library para componentes interactivos.
-- **Node.js:** Entorno de ejecución para JavaScript en el servidor. Empleado en AI Chat Assistant para el backend y APIs.
-- **TensorFlow:** Librería de machine learning. Aplicada en AI Chat Assistant para el procesamiento de lenguaje natural.
-- **Git:** Sistema de control de versiones. Esencial para gestionar el código de todos mis proyectos y colaborar en equipo.
+- **Python:** Lenguaje base para todos mis proyectos de datos. Lo uso para scripting, automatización y desarrollo de modelos.
+- **Pandas:** Librería esencial para manipulación y análisis de datos estructurados. En el proyecto de COVID-19, la utilicé para limpiar y transformar datasets.
+- **NumPy:** Fundamental para operaciones numéricas y manejo de arrays. Aplicado en cálculos matemáticos para modelos de predicción.
+- **Matplotlib:** Herramienta para crear visualizaciones estáticas. La usé en el análisis de COVID-19 para gráficos de tendencias.
+- **Scikit-learn:** Librería de machine learning. Empleada en el proyecto de predicción de viviendas para implementar y evaluar modelos de regresión.
+- **Jupyter Notebook:** Entorno interactivo para análisis de datos. Ideal para explorar datos y documentar procesos paso a paso.
 
-Estas tecnologías me han permitido desarrollar soluciones completas, desde el frontend hasta el backend, integrando IA y bases de datos.
+Estas tecnologías me han permitido procesar datos desde la extracción hasta la modelización, desarrollando habilidades prácticas en el ciclo de vida de proyectos de ciencia de datos.
 
 ---
 
 *Este sitio está alojado en GitHub Pages. Visítalo en: [https://phiepi137.github.io/Phiepi137](https://phiepi137.github.io/Phiepi137)*
-
----
-
-### 4. 🐍 **Web Scraper Pro** - *Completado*
-Herramienta avanzada de web scraping para extracción de datos con análisis automático.
-
-**Características:**
-- Scraping multithread
-- Manejo inteligente de captchas
-- Exportación a múltiples formatos (CSV, JSON, XML)
-- Scheduler integrado
-
-**Stack Tecnológico:** Python, BeautifulSoup, Selenium, SQLite
 
 ---
 
