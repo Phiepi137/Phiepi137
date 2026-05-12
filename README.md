@@ -2,7 +2,7 @@
 
 <div align="center">
 
-**Desarrollador Full Stack | Apasionado por IA y Tecnología**
+**Desarrollador Full Stack | Estudiante de Ingeniería en Sistemas**
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-f7df1e?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/es/docs/Web/JavaScript)
@@ -18,83 +18,70 @@
 ## 📋 Tabla de Contenidos
 
 - [Sobre Mí](#-sobre-mí)
-- [Proyectos Destacados](#-proyectos-destacados)
-- [Habilidades Técnicas](#-habilidades-técnicas)
-- [Estadísticas](#-estadísticas)
-- [Experiencia](#-experiencia)
-- [Contacto](#-contacto)
+- [Proyectos](#-proyectos)
+- [Tecnologías](#-tecnologías)
 
 ---
 
 ## 🎯 Sobre Mí
 
-Soy **Ayrton Andres**, un desarrollador Full Stack apasionado por crear soluciones innovadoras utilizando tecnología. Actualmente estudio Ingeniería en Sistemas y he participado en diversos proyectos que van desde aplicaciones web interactivas hasta sistemas de inteligencia artificial.
+Soy **Ayrton Andres**, estudiante de Ingeniería en Sistemas apasionado por el desarrollo de software y la inteligencia artificial. Actualmente resido en Daule, Ecuador, y me especializo en tecnologías Full Stack, IA y Machine Learning. Me gusta aprender nuevas herramientas y aplicarlas en proyectos innovadores.
 
 - 🎓 Estudiante de Ingeniería en Sistemas
 - 📍 Daule, Ecuador
-- 💡 Especializado en: Desarrollo Full Stack, IA y Machine Learning
-- 🎮 Amante de los videojuegos y el fútbol
-- 🚀 Siempre aprendiendo nuevas tecnologías
+- 💡 Intereses: Desarrollo web, IA, videojuegos y fútbol
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Proyectos
 
-### 1. 🤖 **AI Chat Assistant** - *En Desarrollo*
-Una aplicación de inteligencia artificial conversacional construida con TensorFlow y API de GPT.
+Aquí presento algunos de mis proyectos destacados, donde he aplicado las tecnologías aprendidas durante el curso.
 
-**Características:**
-- Procesamiento de lenguaje natural (NLP)
-- Respuestas inteligentes y contextuales
-- Interfaz amigable con React
-- Integración con base de datos MongoDB
+### 1. 🤖 **AI Chat Assistant**
+Una aplicación de inteligencia artificial conversacional que utiliza procesamiento de lenguaje natural para generar respuestas inteligentes.
 
-**Stack Tecnológico:** Python, TensorFlow, Node.js, React, MongoDB
+**Descripción:** Este proyecto integra modelos de IA para crear un asistente de chat interactivo, capaz de mantener conversaciones contextuales.
 
-```bash
-git clone https://github.com/Phiepi137/ai-chat-assistant.git
-cd ai-chat-assistant
-npm install && pip install -r requirements.txt
-```
+**Tecnologías utilizadas:** Python, TensorFlow, Node.js, React, MongoDB.
 
----
+**Enlace al repositorio:** [GitHub - AI Chat Assistant](https://github.com/Phiepi137/ai-chat-assistant)
 
-### 2. 💰 **Financial Dashboard** - *Completado*
-Dashboard de gestión financiera personal con análisis en tiempo real.
+### 2. 💰 **Financial Dashboard**
+Un dashboard para la gestión financiera personal que incluye gráficos interactivos y análisis de datos en tiempo real.
 
-**Características:**
-- 📊 Gráficos interactivos con Chart.js
-- 💳 Seguimiento de gastos e ingresos
-- 📈 Análisis de tendencias financieras
-- 🔐 Autenticación segura con JWT
-- 💾 Almacenamiento en la nube
+**Descripción:** Permite a los usuarios rastrear ingresos, gastos y tendencias financieras de manera visual y segura.
 
-**Stack Tecnológico:** React, Express.js, PostgreSQL, Redux
+**Tecnologías utilizadas:** React, Express.js, PostgreSQL, Redux, Chart.js.
 
-**Resultados:**
-- ⭐ 245 estrellas en GitHub
-- 📥 50+ descargas mensuales
-- ✅ 98% de uptime
+**Enlace al repositorio:** [GitHub - Financial Dashboard](https://github.com/Phiepi137/financial-dashboard)
 
-```bash
-git clone https://github.com/Phiepi137/financial-dashboard.git
-npm start
-```
+### 3. 🎨 **Design System Library**
+Una librería de componentes reutilizables para el desarrollo frontend, con documentación completa y accesibilidad.
+
+**Descripción:** Acelera el desarrollo de interfaces de usuario mediante componentes preconstruidos y personalizables.
+
+**Tecnologías utilizadas:** React, TypeScript, Styled Components, Storybook.
+
+**Enlace al repositorio:** [GitHub - Design System Library](https://github.com/Phiepi137/design-system-library)
 
 ---
 
-### 3. 🎨 **Design System Library** - *Completado*
-Librería de componentes reutilizables para acelerar el desarrollo frontend.
+## 🛠️ Tecnologías
 
-**Características:**
-- 40+ componentes preconstruidos
-- Documentación completa con Storybook
-- Totalmente personalizable con temas
-- Accesibilidad WCAG 2.1 compliant
+Durante el curso, he aprendido y aplicado diversas tecnologías, herramientas, frameworks y librerías en mis proyectos. A continuación, detallo algunas de las principales:
 
-**Stack Tecnológico:** React, TypeScript, Styled Components, Storybook
+- **Python:** Lenguaje de programación utilizado para el desarrollo backend y scripts de IA. En el proyecto AI Chat Assistant, lo usé para implementar modelos de machine learning con TensorFlow.
+- **JavaScript:** Lenguaje esencial para el desarrollo web. Lo apliqué en proyectos frontend con React para crear interfaces dinámicas.
+- **React:** Framework de JavaScript para construir interfaces de usuario. Utilizado en Financial Dashboard y Design System Library para componentes interactivos.
+- **Node.js:** Entorno de ejecución para JavaScript en el servidor. Empleado en AI Chat Assistant para el backend y APIs.
+- **TensorFlow:** Librería de machine learning. Aplicada en AI Chat Assistant para el procesamiento de lenguaje natural.
+- **Git:** Sistema de control de versiones. Esencial para gestionar el código de todos mis proyectos y colaborar en equipo.
 
-📚 [Ver Documentación](https://design-system-lib.netlify.app)
+Estas tecnologías me han permitido desarrollar soluciones completas, desde el frontend hasta el backend, integrando IA y bases de datos.
+
+---
+
+*Este sitio está alojado en GitHub Pages. Visítalo en: [https://phiepi137.github.io/Phiepi137](https://phiepi137.github.io/Phiepi137)*
 
 ---
 
