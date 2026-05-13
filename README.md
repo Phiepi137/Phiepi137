@@ -1,229 +1,259 @@
-# 👋 Hola, soy Ayrton Andres
+# 👋 ¡Hola! Soy Ayrton Andres (Phiepi137)
+
+<div align="center">
+  <h3>🎯 Estudiante de Ciencia de Datos e IA | Apasionado por Análisis & Machine Learning</h3>
+  
+  <p>
+    <a href="https://www.python.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Python-3.11+-3776ab?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    </a>
+    <a href="https://pandas.pydata.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Pandas-2.0+-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+    </a>
+    <a href="https://numpy.org/" target="_blank">
+      <img src="https://img.shields.io/badge/NumPy-1.24+-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+    </a>
+    <a href="https://matplotlib.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Matplotlib-3.7+-11557c?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib" />
+    </a>
+    <a href="https://scikit-learn.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Scikit--learn-1.3+-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
+    </a>
+    <a href="https://jupyter.org/" target="_blank">
+      <img src="https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
+    </a>
+  </p>
+
+</div>
+
+
+---
+
+## 📚 Tabla de Contenidos
+
+<ul>
+  <li><a href="#-sobre-mí">Sobre Mí</a></li>
+  <li><a href="#-estadísticas-académicas">Estadísticas</a></li>
+  <li><a href="#-proyectos-destacados">Proyectos</a></li>
+  <li><a href="#-stack-técnico">Stack Técnico</a></li>
+  <li><a href="#-habilidades-principales">Habilidades</a></li>
+  <li><a href="#-contacto-conmigo">Contacto</a></li>
+</ul>
+
+---
+
+## 👨‍💼 Sobre Mí
+
+Soy **Ayrton Andres** (aka **Phiepi137**), estudiante de **Ciencia de Datos e Inteligencia Artificial** en el **3er semestre** de la ESPOL, ubicado en **Daule, Ecuador**. 
+
+Mi pasión es **transformar datos en insights accionables** utilizando técnicas estadísticas avanzadas y algoritmos de machine learning. Me interesa especialmente:
+
+- 📊 **Análisis Exploratorio de Datos (EDA)** y visualización de patrones complejos
+- 🤖 **Machine Learning** predictivo y clasificación
+- 📈 **Estadística Aplicada** para tomas de decisiones basadas en datos
+- 🎨 **Visualización de Datos** clara y profesional
+
+> *"Los datos no mienten, pero necesitan una buena interpretación para contar historias impactantes."*
+
+---
+
+## 📊 Estadísticas Académicas
 
 <div align="center">
 
-**Estudiante de Ciencia de Datos | Apasionado por el Análisis y la Inteligencia Artificial**
-
-[![Python](https://img.shields.io/badge/Python-3.11+-3776ab?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-2.0+-2C2D72?style=flat-square&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-1.24+-013243?style=flat-square&logo=numpy&logoColor=white)](https://numpy.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-3.7+-11557c?style=flat-square&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-1.3+-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=flat-square&logo=jupyter&logoColor=white)](https://jupyter.org/)
+| Métrica | Detalle |
+|---------|---------|
+| 🎓 **Carrera** | Ciencia de Datos e IA |
+| 📍 **Institución** | ESPOL, Ecuador |
+| 📈 **Semestre Actual** | 3ro |
+| 💻 **Lenguaje Principal** | Python |
+| 🏆 **Enfoque** | Resolución de problemas reales con datos |
 
 </div>
 
 ---
 
-## 📋 Tabla de Contenidos
+## 🚀 Proyectos Destacados
 
-- [Sobre Mí](#-sobre-mí)
-- [Proyectos](#-proyectos)
-- [Tecnologías](#-tecnologías)
+Aquí presento mis proyectos más relevantes, donde he aplicado técnicas de análisis de datos y machine learning para resolver problemas reales.
 
----
+### 📊 Análisis de Datos COVID-19
 
-## 🎯 Sobre Mí
+> **Análisis exploratorio integral de la pandemia global**
 
-Soy **Ayrton Andres**, estudiante de Ciencia de Datos en tercer semestre, apasionado por el análisis de datos y la aplicación de inteligencia artificial para resolver problemas reales. Actualmente resido en Daule, Ecuador, y me enfoco en aprender técnicas de machine learning, visualización de datos y estadística aplicada. Me gusta explorar datasets públicos y desarrollar modelos predictivos.
-
-- 🎓 Estudiante de Ciencia de Datos (3er semestre)
-- 📍 Daule, Ecuador
-- 💡 Intereses: Análisis de datos, machine learning, visualización y resolución de problemas con datos
-
----
-
-## 🚀 Proyectos
-
-Aquí presento algunos de mis proyectos destacados, donde he aplicado las tecnologías aprendidas durante el curso de Ciencia de Datos.
-
-### 1. 📊 **Análisis de Datos COVID-19**
-Un proyecto de análisis exploratorio de datos sobre la pandemia de COVID-19 utilizando datasets públicos.
-
-**Descripción:** Este proyecto analiza tendencias de casos, muertes y vacunaciones a nivel global y regional, identificando patrones y correlaciones.
-
-**Tecnologías utilizadas:** Python, Pandas, Matplotlib, Jupyter Notebook.
-
-**Enlace al repositorio:** [GitHub - Análisis COVID-19](https://github.com/Phiepi137/analisis-covid19)
-
-### 2. 🏠 **Predicción de Precios de Viviendas**
-Modelo de regresión lineal para predecir precios de viviendas basado en características como ubicación, tamaño y amenities.
-
-**Descripción:** Utiliza datos de viviendas para entrenar un modelo que estima precios, evaluando su precisión con métricas como RMSE.
-
-**Tecnologías utilizadas:** Python, Scikit-learn, Pandas, NumPy, Matplotlib.
-
-**Enlace al repositorio:** [GitHub - Predicción Viviendas](https://github.com/Phiepi137/prediccion-viviendas)
-
-### 3. 📈 **Dashboard de Ventas Interactivo**
-Visualización interactiva de datos de ventas de una empresa ficticia, con gráficos dinámicos y filtros.
-
-**Descripción:** Crea un dashboard que permite explorar métricas de ventas por producto, región y tiempo, facilitando la toma de decisiones.
-
-**Tecnologías utilizadas:** Python, Pandas, Plotly, Streamlit, Jupyter Notebook.
-
-**Enlace al repositorio:** [GitHub - Dashboard Ventas](https://github.com/Phiepi137/dashboard-ventas)
-
----
-
-## 🛠️ Tecnologías
-
-Durante mis estudios en Ciencia de Datos, he aprendido y aplicado diversas herramientas y librerías para el manejo, análisis y visualización de datos. A continuación, detallo algunas de las principales:
-
-- **Python:** Lenguaje base para todos mis proyectos de datos. Lo uso para scripting, automatización y desarrollo de modelos.
-- **Pandas:** Librería esencial para manipulación y análisis de datos estructurados. En el proyecto de COVID-19, la utilicé para limpiar y transformar datasets.
-- **NumPy:** Fundamental para operaciones numéricas y manejo de arrays. Aplicado en cálculos matemáticos para modelos de predicción.
-- **Matplotlib:** Herramienta para crear visualizaciones estáticas. La usé en el análisis de COVID-19 para gráficos de tendencias.
-- **Scikit-learn:** Librería de machine learning. Empleada en el proyecto de predicción de viviendas para implementar y evaluar modelos de regresión.
-- **Jupyter Notebook:** Entorno interactivo para análisis de datos. Ideal para explorar datos y documentar procesos paso a paso.
-
-Estas tecnologías me han permitido procesar datos desde la extracción hasta la modelización, desarrollando habilidades prácticas en el ciclo de vida de proyectos de ciencia de datos.
-
----
-
-*Este sitio está alojado en GitHub Pages. Visítalo en: [https://phiepi137.github.io/Phiepi137](https://phiepi137.github.io/Phiepi137)*
-
----
-
-### 5. 🎯 **Real-time Task Manager** - *En Desarrollo*
-Aplicación colaborativa de gestión de tareas con sincronización en tiempo real.
-
-**Características:**
-- 👥 Colaboración múltiples usuarios
-- 🔔 Notificaciones en tiempo real con WebSocket
-- 📱 Responsivo (Mobile-First)
-- 🗓️ Integración con calendarios
-
-**Stack Tecnológico:** Vue.js, Node.js, Firebase, Socket.io
-
----
-
-## 💻 Habilidades Técnicas
-
-### Lenguajes de Programación
 ```
-Python          ████████░░ 85%
-JavaScript      ███████░░░ 80%
-SQL             ███████░░░ 78%
-HTML/CSS        █████████░ 92%
-TypeScript      ██████░░░░ 70%
-Java            █████░░░░░ 65%
+Descripción: Exploración profunda de tendencias de casos, muertes y 
+vacunaciones a nivel global, identificando patrones geográficos y temporales.
 ```
 
-### Frontend
-- ⚛️ React, Vue.js, Next.js
-- 🎨 Tailwind CSS, Material-UI, Styled Components
-- 📱 Responsive Design, Mobile-First
-- 🎭 D3.js, Chart.js, Three.js
+- **Alcance:** Análisis multi-dimensional de datasets públicos
+- **Técnicas Utilizadas:** EDA, limpieza de datos, visualización estadística
+- **Herramientas:** Python, Pandas, Matplotlib, Jupyter
+- **Objetivo:** Identificar correlaciones y patrones epidemiológicos
 
-### Backend
-- 🟢 Node.js, Express.js, Fastify
-- 🐍 Django, Flask, FastAPI
-- 🗄️ PostgreSQL, MongoDB, Firebase
-- 💻 RESTful APIs, GraphQL
-
-### DevOps & Herramientas
-- 🐳 Docker, Docker Compose
-- ☸️ Kubernetes (básico)
-- 📦 Git, GitHub Actions, CI/CD
-- 🔧 VS Code, Postman, Figma
-
-### IA y Machine Learning
-- 🤖 TensorFlow, PyTorch
-- 📊 Scikit-learn, Pandas, Numpy
-- 🧠 NLP, Computer Vision
-- 📈 Análisis de datos
+🔗 [Ver en GitHub](https://github.com/Phiepi137/analisis-covid19)
 
 ---
 
-## 📊 Estadísticas
+### 🏠 Predicción de Precios de Viviendas
+
+> **Modelo predictivo de regresión para estimación de valores inmobiliarios**
+
+```
+Descripción: Modelo entrenado con características inmobiliarias 
+para predecir precios con precisión evaluada mediante métricas robustas.
+```
+
+- **Alcance:** Regresión lineal y polinómica multidimensional
+- **Técnicas Utilizadas:** Feature engineering, validación cruzada, evaluación RMSE/R²
+- **Herramientas:** Scikit-learn, Pandas, NumPy, Matplotlib
+- **Objetivo:** Precisión predictiva en mercado inmobiliario
+
+🔗 [Ver en GitHub](https://github.com/Phiepi137/prediccion-viviendas)
+
+---
+
+### 📈 Dashboard de Ventas Interactivo
+
+> **Aplicación interactiva para visualización y análisis de métricas comerciales**
+
+```
+Descripción: Dashboard dinámico que permite explorar datos de ventas 
+con filtros avanzados, gráficos interactivos y KPIs en tiempo real.
+```
+
+- **Alcance:** Sistema completo de BI para análisis de decisiones
+- **Técnicas Utilizadas:** Agregación de datos, visualización interactiva
+- **Herramientas:** Streamlit, Plotly, Pandas, Python
+- **Objetivo:** Facilitar toma de decisiones ejecutivas
+
+🔗 [Ver en GitHub](https://github.com/Phiepi137/dashboard-ventas)
+
+---
+
+## 🛠️ Stack Técnico
+
+Mi toolkit completo de herramientas para ciencia de datos, organizadas por dominio:
+
+### 🐍 Lenguajes de Programación
 
 <div align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Python-Expert-3776ab?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.shields.io/badge/JavaScript-Intermedio-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
+  </a>
+  <a href="https://www.w3.org/standards/webdesign/" target="_blank">
+    <img src="https://img.shields.io/badge/HTML/CSS-Intermedio-E34C26?style=flat-square&logo=html5&logoColor=white" alt="HTML/CSS" />
+  </a>
+  <a href="https://www.sql.org/" target="_blank">
+    <img src="https://img.shields.io/badge/SQL-Intermedio-336791?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
+  </a>
+</div>
 
-| Métrica | Valor |
-|---------|-------|
-| **Repositorios Públicos** | 12 |
-| **Contribuciones (2024)** | 450+ |
-| **Estrellas Totales** | 890 |
-| **Seguidores** | 156 |
-| **Proyectos Completados** | 18 |
-| **Líneas de Código** | 50,000+ |
+### 📊 Librerías de Ciencia de Datos
+
+| Librería | Dominio | Nivel |
+|----------|---------|-------|
+| **Pandas** | Manipulación de datos | 🟢 Experto |
+| **NumPy** | Computación numérica | 🟢 Experto |
+| **Matplotlib** | Visualización estática | 🟢 Experto |
+| **Scikit-learn** | Machine Learning | 🟢 Avanzado |
+| **Plotly** | Visualización interactiva | 🟡 Intermedio |
+| **Seaborn** | Visualización estadística | 🟡 Intermedio |
+| **Statsmodels** | Análisis estadístico | 🟡 Intermedio |
+
+### 🚀 Frameworks & Herramientas
+
+- **Jupyter Notebook** - Análisis exploratorio interactivo
+- **Streamlit** - Aplicaciones web de datos
+- **Git/GitHub** - Control de versiones
+- **Google Colab** - Computación en la nube
+
+---
+
+## ⚡ Habilidades Principales
+
+### Análisis de Datos
+```
+█████████████████████░ 95% | EDA, Limpieza, Feature Engineering
+```
+
+### Machine Learning
+```
+███████████████░░░░░░ 80% | Regresión, Clasificación, Evaluación
+```
+
+### Visualización de Datos
+```
+████████████████░░░░░ 85% | Matplotlib, Plotly, Storytelling
+```
+
+### Estadística Aplicada
+```
+████████████████░░░░░ 85% | Descriptiva, Inferencial, Hipótesis
+```
+
+### Python - Pandas/NumPy
+```
+█████████████████████░ 95% | Manipulación, Transformación
+```
+
+### Comunicación de Resultados
+```
+███████████████░░░░░░ 80% | Reportes, Presentaciones, Documentación
+```
+
+---
+
+## 📬 Contacto Conmigo
+
+¡Me encantaría conectar contigo! Puedes encontrarme en:
+
+<div align="center">
+  
+  <a href="https://www.linkedin.com/in/ayrton-andres/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayrton%20Andres-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  
+  <a href="mailto:ayrton.andres@espol.edu.ec" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contactame-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  
+  <a href="https://twitter.com/Phiepi137" target="_blank">
+    <img src="https://img.shields.io/badge/X%20(Twitter)-@Phiepi137-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  
+  <a href="https://github.com/Phiepi137" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Phiepi137-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 
 </div>
 
 ---
 
-## 👨‍💼 Experiencia
+## 📖 En Desarrollo
 
-### 🏢 Pasante en TechCorp Solutions
-**Período:** Junio 2024 - Presente
+Estoy actualmente trabajando en:
 
-- Desarrollo de aplicaciones web con React y Node.js
-- Implementación de features de IA usando TensorFlow
-- Colaboración en equipo Agile (Scrum)
-- Optimización de rendimiento de bases de datos
-
-### 📚 Proyectos Académicos
-- Sistema de Gestión Universitaria (Java)
-- API REST de Blog Personal (Python)
-- Aplicación de E-commerce (MERN Stack)
-
----
-
-## 🎓 Certificaciones
-
-- 🏆 **Google Cloud Certified Associate** - Cloud Engineer
-- 🏆 **AWS Certified Cloud Practitioner**
-- 🏆 **The Complete JavaScript Course** - Udemy
-- 🏆 **Machine Learning Specialization** - Coursera
-
----
-
-## 📈 Actividad Reciente
-
-```
-Lunes      ████░░░░░░ 23 commits
-Martes     ██████░░░░ 45 commits
-Miércoles  ████████░░ 67 commits
-Jueves     ██████░░░░ 41 commits
-Viernes    ████░░░░░░ 28 commits
-```
-
----
-
-## 📞 Contacto
-
-¿Tienes una idea interesante o quieres colaborar? ¡Me encantaría escucharte!
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-ycarriel@fiec.espol.edu.ec-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ycarriel@fiec.espol.edu.ec)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ayrton%20Carriel-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ayrton-carriel)
-[![X](https://img.shields.io/badge/X-@AyrtonAndres10-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/AyrtonAndres10)
-
-</div>
-
----
-
-## 🤝 Contribuciones & Colaboraciones
-
-Soy un entusiasta de la comunidad open source. Si te interesa colaborar en alguno de mis proyectos o tienes sugerencias, no dudes en:
-
-- 🍴 Hacer un fork
-- 🐛 Reportar bugs
-- 💡 Sugerir nuevas features
-- 📝 Hacer pull requests
+- 🎓 Profundizar en **Deep Learning** y **Redes Neuronales**
+- 📚 Explorando **Big Data** con Apache Spark
+- 🔬 Investigación en **NLP** (Procesamiento de Lenguaje Natural)
+- 🌐 Mejorando habilidades en **Web Scraping** y APIs REST
 
 ---
 
 <div align="center">
 
-### ⭐ Si te gustó mi trabajo, por favor considera darme una estrella en GitHub ⭐
+### 💡 Mi Filosofía
 
-**Hecho con ❤️ por Ayrton Andres**
+*"En un mundo de datos, quien sabe interpretarlos es el que toma mejores decisiones."*
 
-```
-Last Updated: Mayordomo 2024
-```
+---
+
+**Creado con ❤️ por Ayrton Andres (Phiepi137)**
+
+![Profile views](https://komarev.com/ghpvc/?username=Phiepi137&color=blue)
 
 </div>
